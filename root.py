@@ -152,7 +152,7 @@ netflix.Close.resample('Q').mean().plot(kind='bar')
 
 # ## Resampling generates a unique sampling distribution on the basis of the actual data. We can apply various frequency to resample our time series data. This is a very important technique in the field of analytics. To reduce the granularity we have introduce the term resample here.
 
-# In[ ]:
+
 
 
 
